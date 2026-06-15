@@ -1,0 +1,5 @@
+.vscode/ 
+__pycache__/ 
+ollama_chain.py 
+test.py 
+*.pyc 
